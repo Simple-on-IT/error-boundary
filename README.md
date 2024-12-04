@@ -18,5 +18,5 @@
 
 
 ## Дополнительные материалы:
-Документация - https://ru.react.js.org/docs/error-boundaries.html 
-Видео - 
+Документация - https://ru.react.js.org/docs/error-boundaries.html  
+Видео - https://youtube.com/shorts/N22IRkGXi8M?feature=share
