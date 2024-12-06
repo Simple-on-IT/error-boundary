@@ -4,7 +4,7 @@
 Реализовать ErrorBoundary для обработки ошибок приложения и добавить возможность копирования текста ошибки.
 
 ## Как выполнить задание:
-1. В файлу `routeConfig.tsx` оберните компонент `<MainPage />` в компонент `ErrorBoundary`.
+1. В файле `routeConfig.tsx` оберните компонент `<MainPage />` в компонент `ErrorBoundary`.
 2. Проверьте работоспособность ErrorBoundary в продакшене:
 - Соберите проект командой `npm run build`.
 - Запустите preview через `npm run preview`.
